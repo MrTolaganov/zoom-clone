@@ -19,6 +19,9 @@ export default function Page() {
         </div>
       </div>
       <MeetingTypeList />
+      <div className='hidden bg-orange-1' />
+      <div className='hidden bg-purple-1' />
+      <div className='hidden bg-yellow-1' />
     </section>
   )
 }
